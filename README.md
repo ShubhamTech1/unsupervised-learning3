@@ -5,9 +5,9 @@ network analytics for connecting_routes :
 
 
 Problem Statement: -
-# a datasets consisting of information for the connecting routes. Create network analytics models on datasets and measure degree centrality, degree of closeness centrality, and degree of in-between centrality.
-# ●	Create a network using edge list matrix(directed only).
-# ●	Columns to be used for dataset
+a datasets consisting of information for the connecting routes. Create network analytics models on datasets and measure degree centrality, degree of closeness centrality, and degree of in-between centrality.
+●	Create a network using edge list matrix(directed only).
+●	Columns to be used for dataset
  
 
 
